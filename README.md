@@ -1,8 +1,11 @@
 <!--   my-header-img -->
 <html> 
-<h1> Python </h1>
+<h1> Programming Languages </h1>
 <body>
- <a href="https://www.python.org/"><img                                          src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+ <code>Python</code>
+ <code>C++</code>
+ <code>C#</code>
+ <code>Javascript</code>
 </body>
 
 
