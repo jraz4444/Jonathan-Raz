@@ -1,6 +1,13 @@
 <!--   my-header-img -->
 <html> 
-<h1> Programming Languages </h1>
+ <head>
+  code{
+  font-size:105%
+  }
+ </head>
+<h1> Welcome to my profile</h1>
+ 
+<h2> Programming Languages </h2>
 <body>
  <code>Python</code>
  <code>C++</code>
