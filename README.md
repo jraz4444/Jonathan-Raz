@@ -3,7 +3,7 @@
 <head>
 <h1> Welcome to my profile!</h1>
 </head>
-<h2> Programming Languages </h2>
+<h2> Programming Languages & Skills  </h2>
 <body>
  <code>Python</code>
  <code>C++ & C & C#</code>
