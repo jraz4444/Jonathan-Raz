@@ -1,4 +1,6 @@
-# Languages
+#  Jonathan Raz - Investigative and Passionate Computer Science Student
+
+# Programming Languages
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=fff)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)](https://aws.amazon.com/what-is/sql/)
