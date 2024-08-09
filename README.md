@@ -1,5 +1,5 @@
 #  Jonathan Raz - Investigative and Passionate Computer Science Student
-Passionate emerging leader and efficient learner of the Computer Science industry. Hardworking, dedicated team player with strong problem-solving skills. Highly interested in programming and development, currently seeking internship and career opportunities in the Computer Science field. Experienced in basic coding with HTML, Javascript, Python,C# and SQL. Fully committed to project details and meeting work deadlines.
+Passionate emerging leader and efficient learner of the Computer Science industry. Hardworking, dedicated team player with strong problem-solving skills. Highly interested in programming and development, currently seeking internship and career opportunities in the Computer Science field. Fully committed to project details and meeting work deadlines.
 
 # Programming Languages
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
