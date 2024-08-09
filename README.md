@@ -1,9 +1,9 @@
 <!--   my-header-img -->
 <html> 
 <head>
-<h1> Welcome to my profile!</h1>
+<h1> Jonathan Raz - Investigative and Passionate Computer Science Student</h1>
 </head>
-<h2> Programming Languages & Skills  </h2>
+<h2> Programming Languages</h2>
 <body>
  <code>Python</code>
  <code>C++ & C & C#</code>
@@ -12,7 +12,6 @@
  <code> CSS </code>
  <code> SQL </code>
  <code>ADA</code>
- <code> Flex & Bison with the code for the lexical anaylzer and the parser</code>
  <code> NumPy</code>
  <code> PyTorch</code>
  <code> Java </code>
@@ -20,7 +19,21 @@
  <code> Haskell</code>
  <code> Fortran</code>
  <code> Bash Script & Python Script </code>
- <code> Ensemble </code>
+ <code> Assembly </code>
+ <h3> Development Tools</h3>
+ <body> 
+ <code> Visual Studio Code </code>
+ <code> Docker </code>
+ <code> Git </code>
+ <code> GitHub> </code>
+ <code> Linux </code>
+ <h4> Contact Me </h4>
+ <body> 
+ <code> LinkedIn </code>
+ <code> Handshake </code>
+ <code> Indeed </code>
+ </body>
+ </body>
 </body>
 </body>
 </html>
