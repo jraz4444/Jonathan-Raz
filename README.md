@@ -33,7 +33,7 @@ Passionate emerging leader and efficient learner of the Computer Science industr
  <code> Haskell</code>
  <code> Fortran</code>
  <code> Assembly </code>
- 
+ <code> R </code>
 </body>
 </body>
 </html>
