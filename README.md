@@ -22,6 +22,7 @@
 <!--   my-header-img -->
 <html> 
 <body>
+ <h1> Additional Programming Languages </h1>
  <code>C++ & C & C#</code>
  <code> SQL </code>
  <code>ADA</code>
@@ -31,13 +32,7 @@
  <code> Haskell</code>
  <code> Fortran</code>
  <code> Assembly </code>
- <h3> Development Tools</h3>
- <body> 
- <h4> Contact Me </h4>
- <body> 
- <code> LinkedIn </code>
- </body>
- </body>
+ 
 </body>
 </body>
 </html>
